@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imrannonari/todolist.git/static/css/main.61d7556e.css",
+    "main.js": "/imrannonari/todolist.git/static/js/main.e74b9148.js",
+    "index.html": "/imrannonari/todolist.git/index.html",
+    "main.61d7556e.css.map": "/imrannonari/todolist.git/static/css/main.61d7556e.css.map",
+    "main.e74b9148.js.map": "/imrannonari/todolist.git/static/js/main.e74b9148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d7556e.css",
+    "static/js/main.e74b9148.js"
+  ]
+}
